@@ -8,15 +8,10 @@ FROM:ARJUN ARUN
      
 DOCUMENTATION
 
-We have created a react app that generates password of any given length
-
-Here we have given four constraints ,according to that password is generated
-
+We have created a react app that generates password of any given length.Here we have given four constraints ,according to that password is generated
 After password gets generated we get a pop up notification saying password is generated if we have not checked any of the constraints it asks you to select any of the one boxes.
-   
 Also there is a little pop up notification that indicates that the “Password is generated successfully”.
 This is done by implementing the TOASTIFY
-
 Toast Notifications are popup messages that are added so as to display a message to a user
 
 
